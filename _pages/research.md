@@ -29,11 +29,11 @@ _joint with Istv&aacute;n Barra and <a href="http://sjkoopman.net/" title="SJK">
 ##### Conferences
 
 * <a class="page-link" href="{{ '/research/Romaszko, Lazarus, Gao, Borowska, Luo, Husmeier - Massive Dimensionality Reduction for the Left Ventricular Mesh.pdf' | prepend: site.baseurl | prepend: site.url }}">Massive Dimensionality Reduction for the Left Ventricular Mesh</a>,  
-_joint with Lukasz Romaszko, Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_  
+_joint with [Lukasz Romaszko](https://scholar.google.com/citations?user=Kb0e7rkAAAAJ&hl=en), Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_  
 (published in Proceedings of the International Conference on Statistics: Theory and Applications, 2019) 
 
 * <a class="page-link" href="{{ '/research/Romaszko, Borowska, Lazarus, Gao, Luo, Husmeier - Direct Learning Left Ventricular Meshes from CMR Images.pdf' | prepend: site.baseurl | prepend: site.url }}">Direct Learning Left Ventricular Meshes from CMR Images</a>,  
-_joint with Lukasz Romaszko, Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_  
+_joint with [Lukasz Romaszko](https://scholar.google.com/citations?user=Kb0e7rkAAAAJ&hl=en), Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_  
 (published in Proceedings of the International Conference on Statistics: Theory and Applications, 2019) 
 
 
