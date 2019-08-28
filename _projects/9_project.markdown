@@ -12,10 +12,12 @@ img: /assets/img/CNN.png
  }
 </script>
    
-With [Lukasz Romaszko](https://scholar.google.com/citations?user=Kb0e7rkAAAAJ&hl=en), Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_
+With [Lukasz Romaszko](https://scholar.google.com/citations?user=Kb0e7rkAAAAJ&hl=en), Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)
 
 
-##### Massive Dimensionality Reduction for the Left Ventricular Mesh
+----
+
+#### Massive Dimensionality Reduction for the Left Ventricular Mesh
 
 > How to reduce the 17k dimension of the LV mesh? With PCA, auto encoders or with a parametric model?
 
@@ -27,7 +29,9 @@ With [Lukasz Romaszko](https://scholar.google.com/citations?user=Kb0e7rkAAAAJ&hl
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/Romaszko, Lazarus, Gao, Borowska, Luo, Husmeier - Massive Dimensionality Reduction for the Left Ventricular Mesh.pdf' | prepend: site.baseurl | prepend: site.url }}">Massive Dimensionality Reduction for the Left Ventricular Mesh</a>
 
 
-##### Direct Learning Left Ventricular Meshes from CMR Images
+----
+
+#### Direct Learning Left Ventricular Meshes from CMR Images
 
 > Train a convolutional neural network to learn LV meshes directly from MRI images
 
