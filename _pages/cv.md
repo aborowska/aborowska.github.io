@@ -35,7 +35,6 @@ __Postdoc researcher__ in Statistics, [University of Glasgow](https://www.gla.ac
 <li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>M.Phil. in Economics</strong> (major: Econometrics), Tinbergen Institute, 2015. </li> 
 <li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>B.Sc. in Mathematics</strong> (minor: Probability Theory), <a href="http://www.mimuw.edu.pl/?LANG=en&para=&parb=" title="MIM">University of Warsaw</a>, 2013.</li> 
 <li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>M.Sc. in Economics</strong>, <a href="http://www.sgh.waw.pl/en/Pages/default.aspx" title="SGH">Warsaw School of Economics</a>, 2012.</li> 
-<li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> Student exchange, <a href="http://www.uni-goettingen.de/en/1.html" title="UoG">University of Goettingen</a>, 2011.</li> 
 <li> <i class="fa fa-graduation-cap" aria-hidden="true"></i> <strong>B.Sc. in Economics</strong>,<a href="http://www.sgh.waw.pl/en/Pages/default.aspx" title="SGH"> Warsaw School of Economics</a>, 2009.</li> 
 </ul>  
 
