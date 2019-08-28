@@ -41,7 +41,7 @@ __Postdoc researcher__ in Statistics, [University of Glasgow](https://www.gla.ac
 
 #### Visits and exchanges:
 * [University of Edinburgh](http://www.ed.ac.uk/), [School of Mathematics](http://www.maths.ed.ac.uk/school-of-mathematics/research/statistics), host supervisor: [Prof. Ruth King](http://www.maths.ed.ac.uk/~rking33/), Apr.-Jun. 2017.  
-* [University of Goettingen](http://www.uni-goettingen.de/en/1.html), Faculty of Economics and Business Administration, M.Sc. program, Erasmus exchange, Sep. 2010 - Feb. 2011
+* [University of Göttingen](http://www.uni-goettingen.de/en/1.html), Faculty of Economics and Business Administration, M.Sc. program, Erasmus exchange, Sep. 2010 - Feb. 2011
 
 ***
 
