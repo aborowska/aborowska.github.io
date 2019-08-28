@@ -41,9 +41,9 @@ __Postdoc researcher__ in Statistics, [University of Glasgow](https://www.gla.ac
 
 #### Visits and exchanges:
 * [University of Edinburgh](http://www.ed.ac.uk/), [School of Mathematics](http://www.maths.ed.ac.uk/school-of-mathematics/research/statistics), host supervisor: [Prof. Ruth King](http://www.maths.ed.ac.uk/~rking33/), Apr.-Jun. 2017.  
-* [University of Goettingen](http://www.uni-goettingen.de/en/1.html), Faculty of Economics and Business Administration, M.Sc. programme, Erasmus exchange, Sep. 2010 - Feb. 2011
+* [University of Goettingen](http://www.uni-goettingen.de/en/1.html), Faculty of Economics and Business Administration, M.Sc. program, Erasmus exchange, Sep. 2010 - Feb. 2011
 
 ***
 
 #### Pronunciation
-In case you were interested, here is how my <a href="https://en.wiktionary.org/wiki/Agnieszka" title="Agnieszka">name</a> is pronunced: a'g&#626;&#603;&#642;ka or Ag-niesh-ka.  
+In case you were interested, here is how my <a href="https://en.wiktionary.org/wiki/Agnieszka" title="Agnieszka">name</a> is pronounced: a'g&#626;&#603;&#642;ka or Ag-niesh-ka.  
