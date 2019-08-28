@@ -14,7 +14,7 @@ description: Information about my research activities
 
 ### Published
 
-###### Journals 
+##### Journals 
 
 * Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Robust and Efficient Risk Evaluation</a>,  
 _joint with <a href="https://research.vu.nl/en/persons/lennart-hoogerheide" title="LH">Lennart Hoogerheide</a>, <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a> and <a href="https://personal.eur.nl/hkvandijk/">Herman K. van Dijk</a>_  
@@ -26,27 +26,27 @@ _joint with  [Nalan Baştürk](https://www.maastrichtuniversity.nl/n.basturk), [
 _joint with Istv&aacute;n Barra and <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a>_  
 (published in Journal of Financial Econometrics, 2018)
   
-###### Conferences
+##### Conferences
 
-* <a class="page-link" href="{{ '/research/Romaszko, Lazarus, Gao, Borowska, Luo, Husmeier - Massive Dimensionality Reduction for the Left Ventricular Mesh.pdf' | prepend: site.baseurl | prepend: site.url }}">Massive Dimensionality Reduction for the Left Ventricular Mesh</a>, 
-_joint with Lukasz Romaszko, Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_ 
+* <a class="page-link" href="{{ '/research/Romaszko, Lazarus, Gao, Borowska, Luo, Husmeier - Massive Dimensionality Reduction for the Left Ventricular Mesh.pdf' | prepend: site.baseurl | prepend: site.url }}">Massive Dimensionality Reduction for the Left Ventricular Mesh</a>,  
+_joint with Lukasz Romaszko, Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_  
 (published in Proceedings of the International Conference on Statistics: Theory and Applications, 2019) 
 
-* <a class="page-link" href="{{ '/research/Romaszko, Borowska, Lazarus, Gao, Luo, Husmeier - Direct Learning Left Ventricular Meshes from CMR Images.pdf' | prepend: site.baseurl | prepend: site.url }}">Direct Learning Left Ventricular Meshes from CMR Images</a>, 
-_joint with Lukasz Romaszko, Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_ 
+* <a class="page-link" href="{{ '/research/Romaszko, Borowska, Lazarus, Gao, Luo, Husmeier - Direct Learning Left Ventricular Meshes from CMR Images.pdf' | prepend: site.baseurl | prepend: site.url }}">Direct Learning Left Ventricular Meshes from CMR Images</a>,  
+_joint with Lukasz Romaszko, Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_  
 (published in Proceedings of the International Conference on Statistics: Theory and Applications, 2019) 
 
 
 ### Working papers
 
 * Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>,  
-_joint with [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/)
+_joint with [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/)_
 
 * Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a>,  
-_joint with [Ruth King](http://www.maths.ed.ac.uk/~rking33/)
+_joint with [Ruth King](http://www.maths.ed.ac.uk/~rking33/)_
 
 * Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis</a>,  
-_joint with Diana Giurghita and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)
+_joint with Diana Giurghita and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)_
 
 
 ### Ongoing research
