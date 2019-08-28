@@ -19,7 +19,7 @@ With [Lukasz Romaszko](https://scholar.google.com/citations?user=Kb0e7rkAAAAJ&hl
 
 #### Massive Dimensionality Reduction for the Left Ventricular Mesh
 
-> How to reduce the 17k dimension of the LV mesh? With PCA, auto encoders or with a parametric model?
+> How to reduce the dimension (17k!) of the LV mesh? With PCA, auto encoders or with a parametric model?
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('pcp')">_Abstract_</a>
 <div id="dimred" style="display:none;">
