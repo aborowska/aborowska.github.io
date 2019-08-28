@@ -16,7 +16,7 @@ social: true
 
 Welcome to my website!
 
-I am a postdoc researcher in Statistics at the <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/" title="Maths&Stats">School of Mathematics and Statistics</a> at the <a href="https://www.gla.ac.uk/" title="UoG">University of Glasgow</a>, which I joined in May 2018 to I work with <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/" title ="DH">Prof. Dirk Husmeier</a>.  
+I am a postdoctoral researcher in Statistics at the <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/" title="Maths&Stats">School of Mathematics and Statistics</a> at the <a href="https://www.gla.ac.uk/" title="UoG">University of Glasgow</a>, which I joined in May 2018 to I work with <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/" title ="DH">Prof. Dirk Husmeier</a>.  
 My position is within the <a href="http://softmech.org/" title="SofTMech">SofTMech Centre</a>, an EPSRC centre for Multiscale Soft Tissue Mechanics with applications to heart and cancer.  
 I work on computer-intensive statistical inference in soft-tissue mechanical models based on partial differential equations. My current project is concerned with Bayesian optimisation and non-parametric Bayesian statistics using Gaussian processes applied to left ventricle modelling.
 
@@ -27,9 +27,10 @@ I was visiting <a href="http://www.maths.ed.ac.uk/~rking33/" title="RK">Prof. Ru
 
 <ul>
 <li> Bayesian methods</li>
-<li> Time series analysis </li>
-<li> State space models</li>
-<li> Sequential Monte Carlo</li>
+<li> Time series analysis (especially state space models)</li>
+<li> Monte Carlo methods (MCMC, SMC, ABC)</li>
+<li> Data analysis (including rare events)</li>
+<li> Machine learning (e.g. Bayesian optimisation)</li>
 </ul>
 
-Besides, I am interested in machine learning, code optimization, adaptive importance sampling and risk evaluation (rare events estimation).
+Besides, I am interested in code optimization, deep learning and adaptive importance sampling.
