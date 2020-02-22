@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Agnieszka Borowska</strong>
-description: [School of Mathematics and Statistics][MathsStats] and [SofTMech][SofTMech]
+description: <a href="https://www.gla.ac.uk">University of Glasgow</a> and <a href="http://softmech.org">SofTMech</a>
 
 profile:
   align: right
