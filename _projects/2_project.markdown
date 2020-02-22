@@ -4,6 +4,7 @@ title: Long Run Risk Forecasting
 description: Submitted
 img: /assets/img/qermit.jpg
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -12,7 +13,8 @@ img: /assets/img/qermit.jpg
  }
 </script>
   
-With [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Siem Jan Koopman](http://sjkoopman.net/).     
+With [Lennart Hoogerheide][LennartHoogerheide] and [Siem Jan Koopman][SiemJanKoopman].  
+
   
 > Precise forecasts of the tail of the distribution of returns for very long horizons, even one-month and one-year ahead (not barely for the 10-days-ahead horizon required by the Basel Committee). An importance sampling based approach where the importance densities are constructed sequentially to "guide" the draws into the tail.
 

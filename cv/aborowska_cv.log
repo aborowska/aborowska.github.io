@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2018.5.1)  28 AUG 2019 15:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2018.5.1)  20 FEB 2020 15:21
 entering extended mode
 **aborowska_cv.tex
 (C:\Users\ab507t\Dropbox\website\aborowska.github.io\cv\aborowska_cv.tex
@@ -168,21 +168,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\genmisc\nth.sty"
 Package: nth 2002/02/27
 )
+\Colsep=\skip45
+
 No file aborowska_cv.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 \AtBeginShipoutBox=\box26
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -210,7 +212,7 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \makeMPintoPDFobject=\count104
 \everyMPtoPDFconversion=\toks21
 )))
-Package hyperref Info: Link coloring ON on input line 7.
+Package hyperref Info: Link coloring ON on input line 13.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -219,68 +221,81 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count105
 )
-LaTeX Info: Redefining \ref on input line 7.
-LaTeX Info: Redefining \pageref on input line 7.
-LaTeX Info: Redefining \nameref on input line 7.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
+(Font)              <7> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
+(Font)              <5> on input line 19.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--89
+Overfull \hbox (3.63145pt too wide) in paragraph at lines 79--95
+\OT1/cmr/bx/it/10 Time-varying Com-bi-na-tions of Bayesian Dy-namic Mod-els and
+ Eq-uity Mo-men-tum Strate-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--105
 
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 94--100
+Underfull \hbox (badness 10000) in paragraph at lines 110--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--107
+Underfull \hbox (badness 10000) in paragraph at lines 124--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--142
+Underfull \hbox (badness 10000) in paragraph at lines 138--172
 
  []
 
 [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 363.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 292.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 363.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 363.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 363.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 363.
  ) 
 Here is how much of TeX's memory you used:
- 4919 strings out of 493921
- 72896 string characters out of 3144874
+ 4923 strings out of 493921
+ 72934 string characters out of 3144874
  154212 words of memory out of 3000000
- 8220 multiletter control sequences out of 15000+200000
- 6635 words of font info for 24 fonts, out of 3000000 for 9000
+ 8223 multiletter control sequences out of 15000+200000
+ 6994 words of font info for 25 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,5n,21p,227b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,5n,21p,288b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on aborowska_cv.pdf (4 pages, 148985 bytes).
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on aborowska_cv.pdf (4 pages, 174463 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

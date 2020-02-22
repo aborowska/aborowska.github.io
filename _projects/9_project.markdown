@@ -4,6 +4,7 @@ title: Tackling LV Meshes
 description: Published at ICSTA
 img: /assets/img/CNN.png
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -12,7 +13,7 @@ img: /assets/img/CNN.png
  }
 </script>
    
-With [Lukasz Romaszko](https://scholar.google.com/citations?user=Kb0e7rkAAAAJ&hl=en), Alan Lazarus, [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/), [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/) and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)
+With [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, [Hao Gao][HaoGao], [Xiaoyu Luo][XiaoyuLuo] and [Dirk Husmeier][DirkHusmeier].
 
 
 ----

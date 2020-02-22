@@ -4,6 +4,7 @@ title: Delta Negative Binomial
 description: Published in JFEC
 img: /assets/img/dnb.jpg
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -12,7 +13,7 @@ img: /assets/img/dnb.jpg
  }
 </script>
 
-With Istv&aacute;n Barra and <a href="http://sjkoopman.net/" title="SJK">Siem Jan Koopman</a>. 
+With Istv&aacute;n Barra and [Siem Jan Koopman][SiemJanKoopman]. 
 
   
 > Bayesian dynamic modelling of high-frequency integer price changes. Based on the negative binomial difference model with stochastic volatility to allow for heavy tails and to address occurrences of jumps in tick by tick discrete prices changes.

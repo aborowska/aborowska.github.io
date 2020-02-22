@@ -4,6 +4,7 @@ title: Semi-Complete Data Augmentation
 description: 
 img: /assets/img/sv_hmm.jpg
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -12,7 +13,7 @@ img: /assets/img/sv_hmm.jpg
  }
 </script>
    
-With [Ruth King](http://www.maths.ed.ac.uk/~rking33/).
+With [Ruth King][RuthKing].
 
 > Improving the efficiency of data augmentation for state space models. Combining data augmentation with numerical integration in a Bayesian hybrid approach to reduce a high autocorrelation in the posterior draws, typically leading to poor mixing of the MCMC algorithm.	
 

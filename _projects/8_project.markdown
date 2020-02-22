@@ -4,6 +4,7 @@ title: GP-ABC for chemotaxis
 description: 
 img: /assets/img/XYOverTime.png
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -12,7 +13,7 @@ img: /assets/img/XYOverTime.png
  }
 </script>
    
-With Diana Giurghita and [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/)
+With Diana Giurghita and [Dirk Husmeier][DirkHusmeier].
 
 > Gaussian process enhanced ABC for parameter inference in a stochastic differential equation system describing the behaviour of cells migrating as a response to chemotaxis.
 
@@ -23,6 +24,4 @@ wound healing, and which is crucial for understanding metastasis in cancer resea
 (NSPDEs), which are known to be challenging for statistical inference due to the intractability of the associated likelihood and the high computational costs of their numerical integration. Therefore, data analysis in this context has been limited to comparing predictions from NSPDE models to laboratory data using simple descriptive statistics. We present a statistically rigorous framework for parameter estimation in complex biophysical systems described by NSPDEs such as the one of chemotaxis. We adopt a likelihood-free approach based on approximate Bayesian computations with sequential Monte Carlo (ABC-SMC) which allows for circumventing the intractability of the likelihood. To find informative summary statistics, crucial for the performance of ABC, we propose to use a Gaussian process (GP) regression model. The interpolation provided by the GP regression turns out useful on its own merits: it relatively accurately estimates the parameters of the NSPDE model and allows for uncertainty quantification, at a very low computational cost. We demonstrate that the correction provided by ABC-SMC is essential for accurate estimation of some of the NSPDE model parameters and for more flexible uncertainty quantification. Our proposed methodology was externally assessed at the Cside 2018 competition, where it ranked 1st in the category "stochastic differential equations".</div> </p>
 </div>
 
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Paper: <a class="page-link" href="{{ '/research/Borowska, Giurghita, Husmeier - Gaussian process enhanced semi-automatic approximate Bayesian computation.pdf' | prepend: site.baseurl | prepend: site.url }}">Gaussian process enhanced semi-automatic approximate Bayesian computation: parameter inference in a stochastic differential equation system for chemotaxis</a>
-
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides: <a class="page-link" href="{{ '/research/A.Borowska - GP emulation for chemotaxis.pdf' | prepend: site.baseurl | prepend: site.url }}">GP emulation for chemotaxis</a>
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> Paper: <a class="page-link" href="{{ '/research/Borowska, Giurghita, Husmeier - Gaussian process enhanced semi-automatic approximate Bayesian computation.pdf' | prepend: site.baseurl | prepend: site.url }}">Gaussian process enhanced semi-automatic approximate Bayesian computation: parameter inference in a stochastic differential equation system for chemotaxis</a> 

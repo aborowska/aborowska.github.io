@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Bayesian Optimisation for LV Models
+title: Bayesian Optimization for LV Models
 description: 
 img: /assets/img/LVs.png
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -12,7 +13,7 @@ img: /assets/img/LVs.png
  }
 </script>
    
-With [Dirk Husmeier](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dirkhusmeier/), [Hao Gao](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/) and [Xiaoyu Luo](https://www.maths.gla.ac.uk/~xl/)
+With [Dirk Husmeier][DirkHusmeier], [Hao Gao][HaoGao] and [Xiaoyu Luo][XiaoyuLuo].
 
 > Accelerating the convergence of optimisation procedures for parameter estimation in left ventricular models via Bayesian Optimisation. Previous approaches were too computationally costly to be used for personalised treatments within clinics.
 

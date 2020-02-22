@@ -4,6 +4,7 @@ title: Model and Strategy Combinations
 description: Published in J Econom
 img: /assets/img/model_weights.png
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -13,7 +14,7 @@ img: /assets/img/model_weights.png
 </script> 
 
 
-With [Nalan Baştürk](https://www.maastrichtuniversity.nl/n.basturk), [Stefano Grassi](https://sites.google.com/view/stefanograssi), [Lennart Hoogerheide](https://research.vu.nl/en/persons/lennart-hoogerheide) and [Herman K. van Dijk](https://personal.eur.nl/hkvandijk/)  
+With [Nalan Baştürk][NalanBasturk], [Stefano Grassi][StefanoGrassi], [Lennart Hoogerheide][LennartHoogerheide] and [Herman K. van Dijk][HermanVanDijk].
 
 > A novel extended time-varying density combination scheme for dynamic asset-allocation based on  mixing of alternative volatility models and alternative portfolio strategies. For computations: a new dynamic filter based on mixtures of Student's _t_ distributions (M-Filter).
 

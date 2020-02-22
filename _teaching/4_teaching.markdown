@@ -4,10 +4,11 @@ title: Advanced Econometrics II
 description: M.Phil. course, 2014/2015
 img: /assets/img/4.jpg
 ---
+{% include _links_library.md %}
 
-* M.Phil. course, Tinbergen Institute
+* M.Phil. course, [Tinbergen Institute][TI]
 * Block 3, 2014/2015
-* Lecturer: [Dr Kees Jan van Garderen](http://www.uva.nl/profiel/g/a/k.j.vangarderen/k.j.vangarderen.html)
+* Lecturer: [Dr Kees Jan van Garderen][KeesJanVanGarderen]
 * TA Notes:
 	1. <a class="page-link" href="{{ '/teaching/ae2/AE2,TA Session 1.pdf' | prepend: site.baseurl | prepend: site.url }}">Session 1</a>	
 	2. <a class="page-link" href="{{ '/teaching/ae2/AE2,TA Session 2.pdf' | prepend: site.baseurl | prepend: site.url }}">Session 2</a>	
