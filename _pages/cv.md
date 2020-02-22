@@ -6,7 +6,7 @@ description: My CV and education
 
 profile:
   align: right
-  image: newpic.jpeg
+  image: newpic.jpg
 news: false
 social: false
 ---

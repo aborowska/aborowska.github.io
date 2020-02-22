@@ -6,7 +6,7 @@ description: [School of Mathematics and Statistics][MathsStats] and [SofTMech][S
 
 profile:
   align: right
-  image: newpic.jpeg
+  image: newpic.jpg
   address: >
     <p>my_name 'dot' my_surname 'at' glasgow 'dot' ac 'dot' uk</p>
 
