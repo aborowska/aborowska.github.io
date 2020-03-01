@@ -27,6 +27,8 @@ orcid_id: 0000-0001-9123-6227
 # contact_note: >
 # You can even add a little note about which of these is the best way to reach you.
 
+google_analytics: UA-159401087-1 # out your google-analytics code
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
