@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Semi-Complete Data Augmentation
-description: 
+description: R&R for JCGS
 img: /assets/img/sv_hmm.jpg
 ---
 {% include _links_library.md %}

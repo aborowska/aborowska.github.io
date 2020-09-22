@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bayesian Optimization for Biomechanics
-description: 
+description: submitted
 img: /assets/img/LVs.png
 ---
 {% include _links_library.md %}
