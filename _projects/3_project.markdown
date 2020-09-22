@@ -13,7 +13,7 @@ img: /assets/img/sv_hmm.jpg
  }
 </script>
    
-With [Ruth King][RuthKing].
+With [Ruth King][RuthKing]
 
 > Improving the efficiency of data augmentation for state space models. Combining data augmentation with numerical integration in a Bayesian hybrid approach to reduce a high autocorrelation in the posterior draws, typically leading to poor mixing of the MCMC algorithm.	
 

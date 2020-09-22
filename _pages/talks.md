@@ -15,9 +15,9 @@ description: Talks and posters
 
 
 * [__British Applied Mathematics Colloquium__ (BAMC)](https://sites.google.com/site/bmcbamc2020/home),
-Glasgow, UK, 6-9 April 2020 (scheduled)
+Glasgow, UK, 6-9 April 2020 (cancelled due to Covid-19)
 * [__ABC in Grenoble Workshop__](https://sites.google.com/view/abc-in-grenoble/),
-Grenoble, France, 19-20 March 2020 (scheduled)
+Grenoble, France, 19-20 March 2020 (cancelled due to Covid-19)
 * [__Seminar Series of the Division of Aerodynamics, Warsaw University of Technology__](https://www.meil.pw.edu.pl/za/ZA/Seminars/Seminars-in-2019/dr-Agnieszka-Borowska-University-of-Glasgow-Efficient-statistical-methods-for-computationally-challenging-problems),
 Warsaw, Poland, 20 December 2019
 * [__3rd Annual Workshop on Financial Econometrics__](https://www.oru.se/english/schools/Orebro-University-School-of-Business/research/conferences/workshop-on-financial-econometrics-2019/),

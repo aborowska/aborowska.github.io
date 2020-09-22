@@ -1,51 +1,52 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.12)  13 APR 2020 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.28)  21 SEP 2020 19:54
 entering extended mode
 **./aborowska_cv.tex
 (aborowska_cv.tex
-LaTeX2e <2019-10-01> patch level 3
-(resume.cls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17> (resume.cls
 Document Style `resume' <26 Sep 89, Dec 07>.
 Document Class: resume 2000/05/19 v1.4b Resume class
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
 No auxiliary output files.
 
-\tabular@text=\toks14
-\tabular@head=\toks15
-\tabular@tail=\toks16
-\@ta=\toks17
-\undefined@token=\toks18
-\sectionwidth=\dimen103
-\sectionskip=\skip43
-\resumewidth=\dimen104
-\@columnwidth=\dimen105
-\c@numberofcolumns=\count88
+\tabular@text=\toks15
+\tabular@head=\toks16
+\tabular@tail=\toks17
+\@ta=\toks18
+\undefined@token=\toks19
+\sectionwidth=\dimen135
+\sectionskip=\skip49
+\resumewidth=\dimen136
+\@columnwidth=\dimen137
+\c@numberofcolumns=\count176
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
-Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+(C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/pdftexcmds\pdftexcmds.st
+y
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/infwarerr\infwarerr.sty
@@ -56,7 +57,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
+\KV@toks@=\toks20
 )
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -68,14 +69,8 @@ Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/hycolor\hycolor.sty
-Package: hycolor 2019/12/15 v1.9 Color options for hyperref/bookmark (HO)
-
-(C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/hycolor\xcolor-patch.sty
-Package: xcolor-patch 2019/12/15 xcolor patch
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\hopatch.sty"
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-)))
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/letltxmacro\letltxmacro.st
 y
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
@@ -85,12 +80,12 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen106
-\Hy@linkcounter=\count89
-\Hy@pagecounter=\count90
+\@linkdim=\dimen138
+\Hy@linkcounter=\count177
+\Hy@pagecounter=\count178
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
-File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -100,27 +95,23 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count91
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 4409.
-Package hyperref Info: Hyper figures OFF on input line 4535.
-Package hyperref Info: Link nesting OFF on input line 4540.
-Package hyperref Info: Hyper index ON on input line 4543.
-Package hyperref Info: Plain pages OFF on input line 4550.
-Package hyperref Info: Backreferencing OFF on input line 4555.
+\Hy@SavedSpaceFactor=\count179
+Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count92
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count180
 
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5147.
-\XeTeXLinkMargin=\dimen107
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen139
 
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -130,37 +121,37 @@ y
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count93
-\Field@Width=\dimen108
-\Fld@charsize=\dimen109
-Package hyperref Info: Hyper figures OFF on input line 6418.
-Package hyperref Info: Link nesting OFF on input line 6423.
-Package hyperref Info: Hyper index ON on input line 6426.
-Package hyperref Info: backreferencing OFF on input line 6433.
-Package hyperref Info: Link coloring ON on input line 6436.
-Package hyperref Info: Link coloring with OCG OFF on input line 6443.
-Package hyperref Info: PDF/A mode OFF on input line 6448.
-LaTeX Info: Redefining \ref on input line 6488.
-LaTeX Info: Redefining \pageref on input line 6492.
+\Fld@menulength=\count181
+\Field@Width=\dimen140
+\Fld@charsize=\dimen141
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring ON on input line 6365.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
 
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/atbegshi\atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count94
-\c@Item=\count95
-\c@Hfootnote=\count96
+\Hy@abspage=\count182
+\c@Item=\count183
+\c@Hfootnote=\count184
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
-File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/atveryend\atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count97
-\c@bookmark@seq@number=\count98
+\Fld@listcount=\count185
+\c@bookmark@seq@number=\count186
 
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/rerunfilecheck\rerunfilech
 eck.sty
@@ -173,21 +164,29 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip44
+\Hy@SectionHShift=\skip50
 )
 (C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/generic/genmisc\nth.sty
 Package: nth 2002/02/27
 )
-\Colsep=\skip45
+\Colsep=\skip51
 
+(C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/latex/l3backend\l3backend-pdfmod
+e.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box45
+)
 No file aborowska_cv.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -195,9 +194,9 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-\AtBeginShipoutBox=\box27
+\AtBeginShipoutBox=\box46
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -207,19 +206,19 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 
-(C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/context/base\supp-pdf.mkii
+(C:\Users\ancal\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count99
-\scratchdimen=\dimen110
-\scratchbox=\box28
-\nofMPsegments=\count100
-\nofMParguments=\count101
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count102
-\MPscratchDim=\dimen111
-\MPnumerator=\count103
-\makeMPintoPDFobject=\count104
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count188
+\scratchdimen=\dimen142
+\scratchbox=\box47
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen143
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks22
 )))
 Package hyperref Info: Link coloring ON on input line 13.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
@@ -232,7 +231,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 tring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count105
+\c@section@level=\count194
 )
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
@@ -242,59 +241,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 19.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
 
  []
 
 
-Overfull \hbox (3.63145pt too wide) in paragraph at lines 79--95
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+
+ []
+
+
+Overfull \hbox (3.63145pt too wide) in paragraph at lines 91--107
 \OT1/cmr/bx/it/10 Time-varying Com-bi-na-tions of Bayesian Dy-namic Mod-els and
  Eq-uity Mo-men-tum Strate-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--105
+Underfull \hbox (badness 10000) in paragraph at lines 91--107
 
  []
 
 [1
 
 {C:/Users/ancal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 110--121
+Underfull \hbox (badness 10000) in paragraph at lines 109--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--128
+Underfull \hbox (badness 10000) in paragraph at lines 122--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--175
+Underfull \hbox (badness 10000) in paragraph at lines 156--184
 
  []
 
-[2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 186--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--256
+
+ []
+
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 373.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 366.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 366.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 366.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 373.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 373.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 373.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 373.
  ) 
 Here is how much of TeX's memory you used:
- 4951 strings out of 492449
- 75897 string characters out of 3129737
- 165827 words of memory out of 3000000
- 9251 multiletter control sequences out of 15000+200000
- 6994 words of font info for 25 fonts, out of 3000000 for 9000
+ 5022 strings out of 481191
+ 78479 string characters out of 2912654
+ 343982 words of memory out of 3000000
+ 20559 multiletter control sequences out of 15000+200000
+ 538442 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,5n,25p,290b,343s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,5n,37p,290b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
@@ -305,9 +314,9 @@ ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
 y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on aborowska_cv.pdf (4 pages, 174527 bytes).
+Output written on aborowska_cv.pdf (4 pages, 174996 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

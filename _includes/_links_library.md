@@ -10,6 +10,7 @@
 [XiaoyuLuo]: https://www.maths.gla.ac.uk/~xl/
 [MEIL]: https://www.meil.pw.edu.pl/eng
 [SofTMech]: http://www.softmech.org/
+[CLDS]: https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/
 [UoG]: https://www.gla.ac.uk/
 [MathsStats]: https://www.gla.ac.uk/schools/mathematicsstatistics/
 [UoE]: http://www.ed.ac.uk/
@@ -25,3 +26,4 @@
 [KeesJanVanGarderen]: https://www.uva.nl/profiel/g/a/k.j.vangarderen/k.j.vangarderen.html
 [PeterSpreij]: https://staff.fnwi.uva.nl/p.j.c.spreij/
 [Cside]: https://www.gla.ac.uk/schools/mathematicsstatistics/events/conferences/cside2018/
+[Erasmus]: https://www.eur.nl/en

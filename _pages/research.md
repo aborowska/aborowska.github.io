@@ -15,7 +15,7 @@ description: Information about my research activities
 
 ### Published
 
-##### Journals 
+#### Journals 
 
 * Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Robust and Efficient Risk Evaluation</a>,  
 _joint with [Lennart Hoogerheide][LennartHoogerheide], [Siem Jan Koopman][SiemJanKoopman] and [Herman K. van Dijk][HermanVanDijk]_  
@@ -27,7 +27,7 @@ _joint with [Nalan Baştürk][NalanBasturk], [Stefano Grassi][StefanoGrassi], [L
 _joint with Istv&aacute;n Barra and [Siem Jan Koopman][SiemJanKoopman]_  
 (published in Journal of Financial Econometrics, 2018)
   
-##### Conferences
+#### Conferences
 
 Project: _<a class="page-link" href="{{ '/projects/9_project/' | prepend: site.baseurl | prepend: site.url }}">Tackling the Left Ventricular Mesh: Direct Learning and Dimensionality Reduction</a>_
 _joint with [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, [Hao Gao][HaoGao], [Xiaoyu Luo][XiaoyuLuo] and [Dirk Husmeier][DirkHusmeier]_
@@ -39,10 +39,11 @@ _joint with [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, [Hao Gao][HaoGao], 
 (published in Proceedings of the International Conference on Statistics: Theory and Applications, 2019) 
 
 
-### Submitted
+### Submitted and under review
 
-* Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>,  
-_joint with [Lennart Hoogerheide][LennartHoogerheide] and [Siem Jan Koopman][SiemJanKoopman]_
+* Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Efficient Parameter Inference in a
+Cardiac Mechanics Model of the Left Ventricle</a>,  
+_joint with [Hao Gao][HaoGao], Alan Lazarus and [Dirk Husmeier][DirkHusmeier]_
 
 * Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a>,  
 _joint with [Ruth King][RuthKing]_
@@ -50,13 +51,9 @@ _joint with [Ruth King][RuthKing]_
 * Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis</a>,  
 _joint with Diana Giurghita and [Dirk Husmeier][DirkHusmeier]_
 
+* Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>,  
+_joint with [Lennart Hoogerheide][LennartHoogerheide] and [Siem Jan Koopman][SiemJanKoopman]_
 
-### Ongoing research
-
-* Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Left Ventricle Biomechanical Models</a>,  
-_joint with [Dirk Husmeier][DirkHusmeier], [Hao Gao][HaoGao] and [Xiaoyu Luo][XiaoyuLuo]_
-
-* Project: <a class="page-link" href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Evaluation for State Space Models</a>
 
  
 ### Theses

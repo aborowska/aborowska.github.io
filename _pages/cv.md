@@ -20,14 +20,12 @@ You can find my full CV <a class="page-link" href="{{ '/cv/aborowska_cv.pdf' | p
 
 ### short CV
 
-#### Current position:
+#### Employment:
 
-__Postdoc researcher__ in Statistics, [University of Glasgow][UoG] and [SofTMech][SofTMech] 
-
-* Working with [Dirk Husmeier][DirkHusmeier]
-* From May 2018
-* Computer-intensive statistical inference in soft-tissue mechanical models based on partial differential equations.
- 
+* **Current position:** Research Associate in Statistics, [University of Glasgow][UoG] and the [Closed-Loop Data Science][CLDS] projects (from June 2020)
+* Research Assistant in Statistics, [University of Glasgow][UoG] and [SofTMech][SofTMech] (May 2018 &ndash;  May 2020)
+* Ph.D. Candidate in Econometrics, [Vrije Universiteit Amsterdam][VU] and [Tinbergen Institute][TI] (Sep. 2015 &ndash;  Aug. 2018)
+* Teaching Assistant for postgraduate courses, [Erasmus University Rotterdam][Erasmus] (Sep. 2014 &ndash; Dec. 2014)
 
 #### Education:
 
@@ -56,8 +54,8 @@ Supervisors: [Siem Jan Koopman][SiemJanKoopman] and [Lennart Hoogerheide][Lennar
 
 
 #### Visits and exchanges:
-* [University of Edinburgh][UoE], [School of Mathematics][SchoolMath], host supervisor: [Ruth King][RuthKing], Apr.-Jun. 2017.  
-* [University of Göttingen](http://www.uni-goettingen.de/en/1.html), Faculty of Economics and Business Administration, M.Sc. program, Erasmus exchange, Sep. 2010 - Feb. 2011
+* [University of Edinburgh][UoE], [School of Mathematics][SchoolMath], host supervisor: [Ruth King][RuthKing], Apr. &ndash; Jun. 2017.  
+* [University of Göttingen](http://www.uni-goettingen.de/en/1.html), Faculty of Economics and Business Administration, M.Sc. program, Erasmus exchange, Sep. 2010 &ndash;  Feb. 2011
 
 ***
 
