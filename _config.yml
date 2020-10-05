@@ -15,7 +15,7 @@ url: https://aborowska.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 # url: # the base hostname & protocol for your site
 # baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: 22 September 2020 # leave blank if you don't want to display last updated
+last_updated: 5 October 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
