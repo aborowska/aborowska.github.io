@@ -17,6 +17,9 @@ description: Information about my research activities
 
 #### Journals 
 
+* Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis</a>,  
+_joint with Diana Giurghita and [Dirk Husmeier][DirkHusmeier]_
+(accepted in Journal of Computational Physics, forthcoming)
 * Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Robust and Efficient Risk Evaluation</a>,  
 _joint with [Lennart Hoogerheide][LennartHoogerheide], [Siem Jan Koopman][SiemJanKoopman] and [Herman K. van Dijk][HermanVanDijk]_  
 (published in Journal of Econometrics, 2020)
@@ -41,15 +44,14 @@ _joint with [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, [Hao Gao][HaoGao], 
 
 ### Submitted and under review
 
-* Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Efficient Parameter Inference in a
-Cardiac Mechanics Model of the Left Ventricle</a>,  
+* Project: <a class="page-link" href="{{ '/projects/9_project/' | prepend: site.baseurl | prepend: site.url }}">CNN-Based Left Ventricle Geometry Prediction from CMR Images with Application in Biomechanics</a>,  
+_joint with [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, David Dalton, Colin Berry, [Xiaoyu Luo][XiaoyuLuo], [Dirk Husmeier][DirkHusmeier] and [Hao Gao][HaoGao]_
+
+* Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Efficient Parameter Inference in a Cardiac Mechanics Model of the Left Ventricle</a>,  
 _joint with [Hao Gao][HaoGao], Alan Lazarus and [Dirk Husmeier][DirkHusmeier]_
 
 * Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a>,  
 _joint with [Ruth King][RuthKing]_
-
-* Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis</a>,  
-_joint with Diana Giurghita and [Dirk Husmeier][DirkHusmeier]_
 
 * Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>,  
 _joint with [Lennart Hoogerheide][LennartHoogerheide] and [Siem Jan Koopman][SiemJanKoopman]_

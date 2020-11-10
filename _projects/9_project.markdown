@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tackling LV Meshes
-description: Published at ICSTA
+description: Submitted to JCMR
 img: /assets/img/CNN.png
 ---
 {% include _links_library.md %}
@@ -13,10 +13,28 @@ img: /assets/img/CNN.png
  }
 </script>
    
-With [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, [Hao Gao][HaoGao], [Xiaoyu Luo][XiaoyuLuo] and [Dirk Husmeier][DirkHusmeier].
+With [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, David Dalton, Collin Berry, [Xiaoyu Luo][XiaoyuLuo] and [Dirk Husmeier][DirkHusmeier] and [Hao Gao][HaoGao].
+
+
+## Journal paper
+
+#### Neural Network-Based Left Ventricle Geometry Prediction from CMR Images with Application in Biomechanics
+
+> How to reduce the dimension (17k!) of the LV mesh? With PCA, auto encoders or with a parametric model?
+
+<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('dimred')">_Abstract_</a>
+<div id="dimred" style="display:none;">
+<p>  <div style="font-size:0.85em; text-align: justify;">Background: Combining biomechanical modelling of left ventricular (LV) function and dysfunction with cardiac magnetic resonance (CMR) imaging has the potential to improve the prognosis of patient-specific cardiovascular disease risks. Biomechanical studies of LV function in three dimensions usually rely on a computerized representation of the LV geometry based on finite element discretization, which is essential for numerically simulating in vivo cardiac dynamics. Detailed knowledge of the LV geometry is also relevant for various other clinical applications, such as assessing the LV cavity volume and wall thickness. Accurately and automatically reconstructing personalized LV geometries from conventional CMR images with minimal manual intervention is still a challenging task, which is a pre-requisite for any subsequent automated biomechanical analysis. Methods: We propose a deep learning-based automatic pipeline for predicting the three-dimensional LV geometry directly from routinely-available cine CMR images, without the need to manually annotate the ventricular wall. Our framework takes advantage of a low-dimensional representation of the high-dimensional LV geometry based on principal component analysis. We analyze how the inference of myocardial passive stiffness is affected by using our automatically generated LV geometries instead of manually generated ones. These insights will inform the development of statistical emulators of LV dynamics to avoid computationally expensive biomechanical simulations. Results: Our proposed framework enables accurate LV geometry reconstruction, outperforming previous approaches by delivering a reconstruction error 50% lower than reported in the literature. We further demonstrate that for a nonlinear cardiac mechanics model, using our reconstructed LV geometries instead of manually extracted ones only moderately affects the inference of passive myocardial stiffness described by an anisotropic hyperelastic constitutive law. Conclusions: We have developed a methodological framework for automatically extracting the LV geometry directly from CMR scans. This has the potential to  make an important step towards personalized medicine by eliminating the need for time consuming and costly manual operations. In addition, our method automatically maps the CMR scan into a low-dimensional representation of the LV geometry, which constitutes an important stepping stone towards the development of an LV geometry-heterogeneous emulator.</div> </p>
+</div>
+
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/Romaszko, Borowska, Lazarus, Dalton, Berry, Luo, Husmeier, Gao - Neural Network-Based Left Ventricle Geometry Prediction.pdf' | prepend: site.baseurl | prepend: site.url }}">Neural Network-Based Left Ventricle Geometry Prediction from CMR Images with Application in Biomechanics</a>
+
+Code: <a class="github-button" href="https://github.com/aborowska/LVgeometry-prediction" data-size="large" aria-label="Follow @aborowska/LVgeometry-prediction on GitHub">Follow @aborowska/LVgeometry-prediction</a>
 
 
 ----
+
+## Conference papers - published at ICSTA 2019
 
 #### Massive Dimensionality Reduction for the Left Ventricular Mesh
 

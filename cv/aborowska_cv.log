@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.28)  21 SEP 2020 19:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.28)  10 NOV 2020 16:59
 entering extended mode
 **./aborowska_cv.tex
 (aborowska_cv.tex
@@ -251,25 +251,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--75
  []
 
 
-Overfull \hbox (3.63145pt too wide) in paragraph at lines 91--107
+Overfull \hbox (3.63145pt too wide) in paragraph at lines 91--104
 \OT1/cmr/bx/it/10 Time-varying Com-bi-na-tions of Bayesian Dy-namic Mod-els and
  Eq-uity Mo-men-tum Strate-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--107
+Underfull \hbox (badness 10000) in paragraph at lines 91--104
 
  []
 
 [1
 
 {C:/Users/ancal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 109--117
+Underfull \hbox (badness 10000) in paragraph at lines 113--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--137
+Underfull \hbox (badness 10000) in paragraph at lines 126--137
 
  []
 
@@ -314,7 +314,7 @@ ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
 y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on aborowska_cv.pdf (4 pages, 174996 bytes).
+Output written on aborowska_cv.pdf (4 pages, 175376 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GP-ABC for chemotaxis
-description: R&R for J Comput Phys
+description: Accepted in J Comput Phys
 img: /assets/img/XYOverTime.png
 ---
 {% include _links_library.md %}
