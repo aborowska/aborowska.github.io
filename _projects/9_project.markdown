@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tackling LV Meshes
+title: Predicting 3D left ventricular geometries
 description: Submitted to JCMR
 img: /assets/img/CNN.png
 ---

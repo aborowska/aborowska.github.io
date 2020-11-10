@@ -18,7 +18,7 @@ description: Information about my research activities
 #### Journals 
 
 * Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis</a>,  
-_joint with Diana Giurghita and [Dirk Husmeier][DirkHusmeier]_
+_joint with Diana Giurghita and [Dirk Husmeier][DirkHusmeier]_  
 (accepted in Journal of Computational Physics, forthcoming)
 * Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Robust and Efficient Risk Evaluation</a>,  
 _joint with [Lennart Hoogerheide][LennartHoogerheide], [Siem Jan Koopman][SiemJanKoopman] and [Herman K. van Dijk][HermanVanDijk]_  
