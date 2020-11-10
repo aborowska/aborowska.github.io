@@ -16,9 +16,11 @@ img: /assets/img/CNN.png
 With [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, David Dalton, Collin Berry, [Xiaoyu Luo][XiaoyuLuo] and [Dirk Husmeier][DirkHusmeier] and [Hao Gao][HaoGao].
 
 
-### Journal paper: Neural Network-Based Left Ventricle Geometry Prediction from CMR Images with Application in Biomechanics
+### Journal paper
 
-> An automatic CNN-based framework for predicting LV geometries directly from CMR images, without the need to manually annotate any CMR scans. The key feature is  separating the segmentation and geometry reconstruction tasks by train two CNNs, a segmentation network and a geometry prediction network
+#### Neural Network-Based Left Ventricle Geometry Prediction from CMR Images with Application in Biomechanics
+
+> An automatic CNN-based framework for predicting LV geometries directly from CMR images, without the need to manually annotate any CMR scans. The key feature is  separating the segmentation and geometry reconstruction tasks by training two CNNs, a segmentation network and a geometry prediction network.
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('dimred')">_Abstract_</a>
 <div id="dimred" style="display:none;">
