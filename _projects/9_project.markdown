@@ -16,11 +16,9 @@ img: /assets/img/CNN.png
 With [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, David Dalton, Collin Berry, [Xiaoyu Luo][XiaoyuLuo] and [Dirk Husmeier][DirkHusmeier] and [Hao Gao][HaoGao].
 
 
-## Journal paper
+### Journal paper: Neural Network-Based Left Ventricle Geometry Prediction from CMR Images with Application in Biomechanics
 
-#### Neural Network-Based Left Ventricle Geometry Prediction from CMR Images with Application in Biomechanics
-
-> How to reduce the dimension (17k!) of the LV mesh? With PCA, auto encoders or with a parametric model?
+> An automatic CNN-based framework for predicting LV geometries directly from CMR images, without the need to manually annotate any CMR scans. The key feature is  separating the segmentation and geometry reconstruction tasks by train two CNNs, a segmentation network and a geometry prediction network
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('dimred')">_Abstract_</a>
 <div id="dimred" style="display:none;">
@@ -34,7 +32,7 @@ Code: <a class="github-button" href="https://github.com/aborowska/LVgeometry-pre
 
 ----
 
-## Conference papers - published at ICSTA 2019
+### Conference papers - published at ICSTA 2019
 
 #### Massive Dimensionality Reduction for the Left Ventricular Mesh
 
@@ -48,7 +46,6 @@ Code: <a class="github-button" href="https://github.com/aborowska/LVgeometry-pre
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/Romaszko, Lazarus, Gao, Borowska, Luo, Husmeier - Massive Dimensionality Reduction for the Left Ventricular Mesh.pdf' | prepend: site.baseurl | prepend: site.url }}">Massive Dimensionality Reduction for the Left Ventricular Mesh</a>
 
 
-----
 
 #### Direct Learning Left Ventricular Meshes from CMR Images
 
