@@ -15,6 +15,8 @@ img: /assets/img/pcp.jpg
 
 With [Lennart Hoogerheide][LennartHoogerheide], [Siem Jan Koopman][SiemJanKoopman] and [Herman K. van Dijk][HermanVanDijk].  
 
+Published in Journal of Econometrics, 2020.
+
 > A novel estimation method  providing a more accurate inference for a specific region of the predictive density  in case of misspecification. Based on the censored likelihood, where the observations outside the region of interest are censored (i.e. for them only the probability of being outside the region of interest matters). 
 
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> PDF: <a class="page-link" href="{{ '/research/Borowska, Hoogerheide, Koopman, Van Dijk - Partially Censored Posterior for Robust and Efficient Risk Evaluation.pdf' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Accurate Left Tail Density Prediction</a>

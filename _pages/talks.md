@@ -2,7 +2,7 @@
 layout: page
 title: talks
 permalink: /talks/
-description: Talks and posters
+description: Selected talks and posters
 ---
 {% include _links_library.md %}
 
@@ -13,11 +13,13 @@ description: Talks and posters
  }
 </script>
 
-
-* [__British Applied Mathematics Colloquium__ (BAMC)](https://sites.google.com/site/bmcbamc2020/home),
-Glasgow, UK, 6-9 April 2020 (cancelled due to Covid-19)
-* [__ABC in Grenoble Workshop__](https://sites.google.com/view/abc-in-grenoble/),
-Grenoble, France, 19-20 March 2020 (cancelled due to Covid-19)
+* [__ML in PL 2021__](https://conference2021.mlinpl.org/cfc/),
+Warsaw, Poland (online), 5-7 November 2021
+* [__British Applied Mathematics Colloquium__ (BAMC)](https://sites.google.com/view/bmcbamc2021/home),
+Glasgow, UK (online), 6-9 April 2021
+* [__RSS Glasgow Local Group Event__](https://rss.org.uk/training-events/events/statistical-inference-in-cardiovascular-modelling/#eventoverview), Glasgow, UK (online), 9 February 2021 ([video](https://youtu.be/8c7GAjkQoNA?t=4092))
+* [__Statistics Seminar Series of the School of Mathematics and Statistics__](https://www.gla.ac.uk/schools/mathematicsstatistics/events/?seriesID=1), Glasgow, UK (online), 29 January 2021 ([video](https://media.ed.ac.uk/playlist/dedicated/51612401/1_oaog7eum/1_wf501ra3))
+* [__One World Approximate Bayesian Computation (ABC) Seminar__](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar), Warwick, UK (online), 29 October 2020 ([video](https://www.youtube.com/watch?v=0VRzflF43xk))
 * [__Seminar Series of the Division of Aerodynamics, Warsaw University of Technology__](https://www.meil.pw.edu.pl/za/ZA/Seminars/Seminars-in-2019/dr-Agnieszka-Borowska-University-of-Glasgow-Efficient-statistical-methods-for-computationally-challenging-problems),
 Warsaw, Poland, 20 December 2019
 * [__3rd Annual Workshop on Financial Econometrics__](https://www.oru.se/english/schools/Orebro-University-School-of-Business/research/conferences/workshop-on-financial-econometrics-2019/),
@@ -54,7 +56,3 @@ Seville, Spain, 9-11 December 2016
 Florence, Italy, 20-21 June 2016
 * [__11th Netherlands Econometric Study Group Meeting__](https://feb.kuleuven.be/drc/Economics/misc/nesg2016/NESG2016) (NESG2016), 
 Leuven, Belgium, 17--18 June 2016
-* [__TI Ph.D. Lunch Seminar__](http://www.tinbergen.nl/seminar-serie/phd-lunch-seminars-amsterdam/?show_archive=0), 
-Amsterdam, The Netherlands, 24 May 2016
-* __Econometrics Brown Bag Seminar__,
-Amsterdam, The Netherlands, 21 January 2016

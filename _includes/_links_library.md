@@ -8,6 +8,9 @@
 [LukaszRomaszko]: https://www.linkedin.com/in/lukasz-romaszko-70289860/
 [HaoGao]: https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao/
 [XiaoyuLuo]: https://www.maths.gla.ac.uk/~xl/
+[MihaelaPaun]: https://scholar.google.com/citations?user=bywLZO4AAAAJ&hl=en
+[MitchelColebank]: https://sites.google.com/view/mitchelcolebank
+[MetteOlufsen]: https://math.sciences.ncsu.edu/people/msolufse/
 [MEIL]: https://www.meil.pw.edu.pl/eng
 [SofTMech]: http://www.softmech.org/
 [CLDS]: https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/
