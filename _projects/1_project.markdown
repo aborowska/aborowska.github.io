@@ -13,7 +13,7 @@ img: /assets/img/nais_smooth.jpg
  }
 </script> 
    
-With [Lennart Hoogerheide][LennartHoogerheide] and [Siem Jan Koopman][SiemJanKoopman].  
+With Lennart Hoogerheide and Siem Jan Koopman
 
 
 > Efficient Bayesian risk estimation for nonlinear, non-Gaussian state space models based on importance sampling. The optimal importance density constructed for the augmented parameter space (including the latent volatility process) with a focus on the "high-loss" scenarios.

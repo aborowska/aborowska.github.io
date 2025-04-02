@@ -13,6 +13,8 @@ description: Selected talks and posters
  }
 </script>
 
+* [__Statistics Seminar Series of the School of Mathematics__](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics),
+Edinburgh, UK (online), 8 November 2021
 * [__ML in PL 2021__](https://conference2021.mlinpl.org/cfc/),
 Warsaw, Poland (online), 5-7 November 2021
 * [__British Applied Mathematics Colloquium__ (BAMC)](https://sites.google.com/view/bmcbamc2021/home),

@@ -13,9 +13,9 @@ img: /assets/img/dnb.jpg
  }
 </script>
 
-With Istv&aacute;n Barra and [Siem Jan Koopman][SiemJanKoopman]. 
+With Istv&aacute;n Barra and Siem Jan Koopman
 
-Published in Journal of Financial Econometrics, 2018.  
+Published in Journal of Financial Econometrics, 2018
   
 > Bayesian dynamic modelling of high-frequency integer price changes. Based on the negative binomial difference model with stochastic volatility to allow for heavy tails and to address occurrences of jumps in tick by tick discrete prices changes.
 

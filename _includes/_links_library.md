@@ -20,7 +20,7 @@
 [SchoolMath]: http://www.maths.ed.ac.uk/school-of-mathematics/research/statistics
 [TI]: http://www.tinbergen.nl
 [VU]: http://www.vu.nl
-[EOR]: https://sbe.vu.nl/en/departments-and-institutes/econometrics-and-or/index.aspx
+[EOR]: https://vu.nl/en/about-vu/faculties/school-of-business-and-economics
 [SGH]: http://www.sgh.waw.pl/en/Pages/default.aspx
 [MIMUW]: https://www.mimuw.edu.pl/en
 [UW]: http://en.uw.edu.pl/

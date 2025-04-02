@@ -2,13 +2,13 @@
 layout: about
 permalink: /
 title: <strong>Agnieszka Borowska</strong>
-description: <a href="https://www.gla.ac.uk">University of Glasgow</a> and <a href="https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/">CLDS</a>
+description:  <a href="https://sbe.vu.nl/en/departments-and-institutes/econometrics-and-or/index.aspx"> VU Amsterdam </a> 
 
 profile:
   align: right
   image: newpic.jpg
   address: >
-    <p>my_name 'dot' my_surname 'at' glasgow 'dot' ac 'dot' uk</p>
+    <p>a 'dot' borowska2 'at' vu 'dot' nl</p>
 
 news: true
 social: true
@@ -16,21 +16,13 @@ social: true
 {% include _links_library.md %}
 
 Welcome to my website!
+I am an adjunct faculty at the [School of Business and Economics][EOR], [Vrije Universiteit Amsterdam][VU].
+My research interests lie in the area of Bayesian and computational statistics and econometrics. My work has focused on developing efficient sampling-based algorithms for prediction and inference in different contexts, such as time series forecasting, risk evaluation, state space models, and high-dimensional problems with intractable likelihood. 
 
-I am a research associate in Statistics at the [School of Mathematics and Statistics][MathsStats] at the [University of Glasgow][UoG], working with [Dirk Husmeier][DirkHusmeier] on computer-intensive statistical inference in soft-tissue mechanical models based on partial differential equations. My current post is within the EPSRC funded [Closed-Loop Data Science][CLDS] centre, where I work on incorporating feedback effects into healthcare prognostication systems. My previous position at Glasgow was within [SofTMech][SofTMech], an EPSRC centre for Multiscale Soft Tissue Mechanics with applications to heart and cancer.  
+Previously I was a research associate in Statistics at the [School of Mathematics and Statistics][MathsStats], [University of Glasgow][UoG], working with [Dirk Husmeier][DirkHusmeier] on computer-intensive statistical methods for soft-tissue mechanical models based on partial differential equations. I worked  within two EPSRC funded projects, the [Closed-Loop Data Science][CLDS]  (CLDS) centre and [SofTMech][SofTMech]. My CLDS work concentrated on incorporating feedback effects into healthcare prognostication systems. In SofTMech, my research was mostly related to inference and uncertainty quantification in  biomechanical models.  
 
-I did my PhD at the [Department of Econometrics and OR][EOR], [Vrije Universiteit Amsterdam][VU], and the [Tinbergen Institute][TI]. I was working [Siem Jan Koopman][SiemJanKoopman] and [Lennart Hoogerheide][LennartHoogerheide] on developing methods for accurate and efficient Bayesian inference for time series analysis, with a particular focus on applications in econometrics and finance.  In Spring 2017 I visited [Ruth King][RuthKing] at the [School of Mathematics][SchoolMath], the [University of Edinburgh][UoE], to work on efficient algorithms for Bayesian inference in state space models.
+I did my PhD at the [Department of Econometrics and OR][EOR] (now the School of Business and Economics), [Vrije Universiteit Amsterdam][VU], and the [Tinbergen Institute][TI], under the supervision of [Siem Jan Koopman][SiemJanKoopman] and [Lennart Hoogerheide][LennartHoogerheide]. I worked on developing methods for accurate and efficient Bayesian inference for time series analysis, with a particular focus on applications in Econometrics and Finance. In Spring 2017 I visited [Ruth King][RuthKing] at the [School of Mathematics][SchoolMath], the [University of Edinburgh][UoE], to work on efficient algorithms for Bayesian inference in state space models.
 
 I hold a Bachelor's degree in Mathematics from the [Faculty of Mathematics, Informatics, and Mechanics][MIMUW], the [University of Warsaw][UW], and a Master's degree in Economics from the [Warsaw School of Economics][SGH].
 
-
-
-#### My main research interests:
-
-* Bayesian methods
-* Monte Carlo methods (MCMC, SMC, ABC)
-* Time series analysis (especially state space models)
-* Data analysis (including rare event estimation)
-* Machine learning (e.g. Bayesian optimisation)
-
-Besides, I am interested in code optimization, deep learning and adaptive importance sampling.
+In 2021 and 2023 I was on maternity leaves.

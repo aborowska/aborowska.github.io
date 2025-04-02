@@ -12,10 +12,11 @@ img: /assets/img/MPA.png
     e.style.display = (e.style.display == 'block') ? 'none' : 'block';
  }
 </script>
-   
-With [Mihaela Paun][MihaelaPaun], [Mitchel J. Colebank][MitchelColebank], [Mette S. Olufsen][MetteOlufsen] and [Dirk Husmeier][DirkHusmeier].
+  
+  
+With Mihaela Paun, Mitchel J. Colebank, Mette S. Olufsen and Dirk Husmeier
 
-Published at ICSTA'21.
+Published at ICSTA'21
 
 
 > Medical intervention results in closed-loop effects -- how to account for them in modelling and statistical inference?

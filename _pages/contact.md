@@ -7,10 +7,7 @@ description:
 
 ### How to contact me
  
-University of Glasgow   
-School of Mathematics and Statistics   
-University Place   
-Glasgow G12 8QQ
+Currently I live in Warsaw, Poland.
 
-email: my_name 'dot' my_surname 'at' glasgow 'dot' ac 'dot' uk
+email: a 'dot' borowska2 'at' vu 'dot' nl
  

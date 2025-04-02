@@ -14,9 +14,9 @@ img: /assets/img/model_weights.png
 </script> 
 
 
-With [Nalan Baştürk][NalanBasturk], [Stefano Grassi][StefanoGrassi], [Lennart Hoogerheide][LennartHoogerheide] and [Herman K. van Dijk][HermanVanDijk].
+With Nalan Baştürk, Stefano Grassi, Lennart Hoogerheide and Herman K. van Dijk
 
-Published in Journal of Econometrics, 2018.
+Published in Journal of Econometrics, 2018
 
 > A novel extended time-varying density combination scheme for dynamic asset-allocation based on  mixing of alternative volatility models and alternative portfolio strategies. For computations: a new dynamic filter based on mixtures of Student's _t_ distributions (M-Filter).
 

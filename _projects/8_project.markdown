@@ -13,11 +13,11 @@ img: /assets/img/XYOverTime.png
  }
 </script>
    
-With Diana Giurghita and [Dirk Husmeier][DirkHusmeier].
+With Diana Giurghita and Dirk Husmeier
 
-Published in Journal of Computational Physics, 2020.
+Published in Journal of Computational Physics, 2020
 
-> Gaussian process enhanced ABC for parameter inference in a stochastic differential equation system describing the behaviour of cells migrating as a response to chemotaxis.
+> Gaussian process enhanced ABC for parameter inference in a stochastic differential equation system describing the behaviour of cells migrating in response to a chemotactic gradient.
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('pcp')">_Abstract_</a>
 <div id="pcp" style="display:none;">

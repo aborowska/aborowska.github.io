@@ -13,9 +13,9 @@ img: /assets/img/pcp.jpg
  }
 </script>
 
-With [Lennart Hoogerheide][LennartHoogerheide], [Siem Jan Koopman][SiemJanKoopman] and [Herman K. van Dijk][HermanVanDijk].  
+With Lennart Hoogerheide, Siem Jan Koopman and Herman K. van Dijk
 
-Published in Journal of Econometrics, 2020.
+Published in Journal of Econometrics, 2020
 
 > A novel estimation method  providing a more accurate inference for a specific region of the predictive density  in case of misspecification. Based on the censored likelihood, where the observations outside the region of interest are censored (i.e. for them only the probability of being outside the region of interest matters). 
 

@@ -13,7 +13,7 @@ img: /assets/img/qermit.jpg
  }
 </script>
   
-With [Lennart Hoogerheide][LennartHoogerheide] and [Siem Jan Koopman][SiemJanKoopman].  
+With Lennart Hoogerheide and Siem Jan Koopman
 
   
 > Precise forecasts of the tail of the distribution of returns for very long horizons, even one-month and one-year ahead (not barely for the 10-days-ahead horizon required by the Basel Committee). An importance sampling based approach where the importance densities are constructed sequentially to "guide" the draws into the tail.

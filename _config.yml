@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Agnieszka Borowska
-email: Agnieszka.Borowska@glasgow.ac.uk
+email: a.borowska2@vu.nl
 
 description: > # this means to ignore newlines until "url:"
   Agnieszka Borowska's research website
@@ -12,9 +12,9 @@ footer_text: >
 
 url: https://aborowska.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-# url: # the base hostname & protocol for your site
-# baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: 6th November 2021 # leave blank if you don't want to display last updated
+#url: # the base hostname & protocol for your site
+#baseurl: /al-folio # the subpath of your site, e.g. /blog/
+last_updated: 2nd of April 2025 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration

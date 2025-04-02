@@ -13,7 +13,7 @@ img: /assets/img/CNN.png
  }
 </script>
    
-With [Lukasz Romaszko][LukaszRomaszko], Alan Lazarus, David Dalton, Collin Berry, [Xiaoyu Luo][XiaoyuLuo], [Dirk Husmeier][DirkHusmeier] and [Hao Gao][HaoGao].
+With Lukasz Romaszko, Alan Lazarus, David Dalton, Collin Berry, Xiaoyu Luo, Dirk Husmeier and Hao Gao
 
 
 ### Journal paper -- published in Artificial Intelligence in Medicine, 2021
