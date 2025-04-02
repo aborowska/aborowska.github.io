@@ -16,35 +16,35 @@ description: Information about my research activities
 ### Published
 
 #### Journals 
-Project: <a class="page-link" href="{{ '/projects/11_project/' | prepend: site.baseurl | prepend: site.url }}">Approximate Bayesian inference in a model for self-generated gradient collective cell movement</a>  
+Project: <a class="page-link" href="{{ '/projects/12_project/' | prepend: site.baseurl | prepend: site.url }}">Approximate Bayesian inference in a model for self-generated gradient collective cell movement</a>  
 _with Jon Devlin, Dirk Husmeier and John Mackenzie_  
 published in Computational Statistics, 2025
 
-Project: <a class="page-link" href="{{ '/projects/3_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a>,  
+Project: <a class="page-link" href="{{ '/projects/11_project/' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation</a>,  
 _with Ruth King_
 published in Journal of Computational and Graphical Statistics, 2022
 
-Project: <a class="page-link" href="{{ '/projects/7_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Efficient Parameter Inference in a Cardiac Mechanics Model of the Left Ventricle</a>,  
+Project: <a class="page-link" href="{{ '/projects/07_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Optimisation for Efficient Parameter Inference in a Cardiac Mechanics Model of the Left Ventricle</a>,  
 _with Hao Gao, Alan Lazarus and Dirk Husmeier_
 published in International Journal for Numerical Methods in Biomedical Engineering, 2022
 
-Project: <a class="page-link" href="{{ '/projects/9_project/' | prepend: site.baseurl | prepend: site.url }}">Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics</a>  
+Project: <a class="page-link" href="{{ '/projects/09_project/' | prepend: site.baseurl | prepend: site.url }}">Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics</a>  
 _with Lukasz Romaszko, Alan Lazarus, David Dalton, Colin Berry, Xiaoyu Luo, Dirk Husmeier and Hao Gao_  
 published in Artificial Intelligence in Medicine, 2021
 
-Project: <a class="page-link" href="{{ '/projects/8_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis</a>  
+Project: <a class="page-link" href="{{ '/projects/08_project/' | prepend: site.baseurl | prepend: site.url }}">Gaussian Process Enhanced Semi-Automatic ABC: Parameter Inference in a Stochastic Differential Equation System for Chemotaxis</a>  
 _with Diana Giurghita and Dirk Husmeier_  
 published in Journal of Computational Physics, 2020
 
-Project: <a class="page-link" href="{{ '/projects/4_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Robust and Efficient Risk Evaluation</a>  
+Project: <a class="page-link" href="{{ '/projects/04_project/' | prepend: site.baseurl | prepend: site.url }}">Partially Censored Posterior for Robust and Efficient Risk Evaluation</a>  
 _with Lennart Hoogerheide, Siem Jan Koopman and Herman K. van Dijk_  
 published in Journal of Econometrics, 2020
 
-Project: <a class="page-link" href="{{ '/projects/5_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a>  
+Project: <a class="page-link" href="{{ '/projects/05_project/' | prepend: site.baseurl | prepend: site.url }}">Time-varying Combinations of Bayesian Dynamic Models and Equity Momentum Strategies</a>  
 _with Nalan Baştürk, Stefano Grassi, Lennart Hoogerheide and Herman K. van Dijk_  
 published in Journal of Econometrics, 2018
 
-Project: <a class="page-link" href="{{ '/projects/6_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a>  
+Project: <a class="page-link" href="{{ '/projects/06_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Dynamic Modeling of High-Frequency Integer Price Changes</a>  
 _with Istv&aacute;n Barra and Siem Jan Koopman_  
 published in Journal of Financial Econometrics, 2018
   
@@ -53,7 +53,7 @@ published in Journal of Financial Econometrics, 2018
 Project: <a class="page-link" href="{{ '/projects/10_project/' | prepend: site.baseurl | prepend: site.url }}">Closed-loop effects for modelling and inference in a pulmonary hypertension model</a>  
 _with Mihaela Paun, Mitchel J. Colebank, Mette S. Olufsen and Dirk Husmeier_
 
-Project: <a class="page-link" href="{{ '/projects/9_project/' | prepend: site.baseurl | prepend: site.url }}">Predicting left ventricle geometries</a>  
+Project: <a class="page-link" href="{{ '/projects/09_project/' | prepend: site.baseurl | prepend: site.url }}">Predicting left ventricle geometries</a>  
 _with Lukasz Romaszko, Alan Lazarus, Hao Gao, Xiaoyu Luo and Dirk Husmeier_
 
 * <a class="page-link" href="{{ '/research/Romaszko, Lazarus, Gao, Borowska, Luo, Husmeier - Massive Dimensionality Reduction for the Left Ventricular Mesh.pdf' | prepend: site.baseurl | prepend: site.url }}">Massive Dimensionality Reduction for the Left Ventricular Mesh</a>  
@@ -64,7 +64,7 @@ published in Proceedings of the International Conference on Statistics: Theory a
 
 
 ### Submitted and under review
-Project: <a class="page-link" href="{{ '/projects/2_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>
+Project: <a class="page-link" href="{{ '/projects/02_project/' | prepend: site.baseurl | prepend: site.url }}">Bayesian Risk Forecasting for Long Horizons</a>
 _with Lennart Hoogerheide and Siem Jan Koopman_
 
 
