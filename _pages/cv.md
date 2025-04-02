@@ -22,7 +22,8 @@ You can find my full CV <a class="page-link" href="{{ '/cv/aborowska_cv.pdf' | p
 
 #### Employment:
 
-* **Current position:** Research Associate in Statistics, [University of Glasgow][UoG] and the [Closed-Loop Data Science][CLDS] projects (from June 2020)
+* **Current position:** Adjunct faculty at the [School of Business and Economics][EOR], [Vrije Universiteit Amsterdam][VU] (from March 2023)
+* Research Associate in Statistics, [University of Glasgow][UoG] and the [Closed-Loop Data Science][CLDS] projects (June 2020 &ndash;  February 2023)
 * Research Assistant in Statistics, [University of Glasgow][UoG] and [SofTMech][SofTMech] (May 2018 &ndash;  May 2020)
 * Ph.D. Candidate in Econometrics, [Vrije Universiteit Amsterdam][VU] and [Tinbergen Institute][TI] (Sep. 2015 &ndash;  Aug. 2018)
 * Teaching Assistant for postgraduate courses, [Erasmus University Rotterdam][Erasmus] (Sep. 2014 &ndash; Dec. 2014)
