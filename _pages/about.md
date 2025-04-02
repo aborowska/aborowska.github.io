@@ -25,4 +25,4 @@ I did my PhD at the [Department of Econometrics and OR][EOR] (now the School of 
 
 I hold a Bachelor's degree in Mathematics from the [Faculty of Mathematics, Informatics, and Mechanics][MIMUW], the [University of Warsaw][UW], and a Master's degree in Economics from the [Warsaw School of Economics][SGH].
 
-In 2021 and 2023 I was on maternity leaves.
+In 2021 and 2023 I was on maternity leave.
