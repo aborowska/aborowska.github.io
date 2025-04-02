@@ -16,8 +16,7 @@ img: /assets/img/MPA.png
   
 With Mihaela Paun, Mitchel J. Colebank, Mette S. Olufsen and Dirk Husmeier
 
-Published at ICSTA'21
-
+Published in Proceedings of the International Conference on Statistics: Theory and Applications, 2021
 
 > Medical intervention results in closed-loop effects -- how to account for them in modelling and statistical inference?
 

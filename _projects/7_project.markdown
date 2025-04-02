@@ -15,6 +15,8 @@ img: /assets/img/LVs.png
    
 With Hao Gao, Alan Lazarus and Dirk Husmeier
 
+Published in the International Journal for Numerical Methods in Engineering, 2022
+
 > An efficient, Bayesian optimisation-based framework for parameter inference in a cardiac mechanic model of the left ventricle. Our method  converges to lower values of the objective functions considered and requires fewer invocations of the forward simulator than alternative state-of-the-art multi-step algorithms.
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('bo')">_Abstract_</a>

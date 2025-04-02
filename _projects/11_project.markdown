@@ -2,7 +2,7 @@
 layout: page
 title: ABC for cell movement
 description: Published in Computational Statistics
-img: /assets/img/abc.jpg
+img: /assets/img/ABC.jpg
 ---
 {% include _links_library.md %}
 

@@ -15,10 +15,9 @@ img: /assets/img/CNN.png
    
 With Lukasz Romaszko, Alan Lazarus, David Dalton, Collin Berry, Xiaoyu Luo, Dirk Husmeier and Hao Gao
 
-
-### Journal paper -- published in Artificial Intelligence in Medicine, 2021
-
 #### Neural network-based left ventricle geometry prediction from CMR images with application in biomechanics
+
+Journal paper -- published in Artificial Intelligence in Medicine, 2021
 
 > An automatic CNN-based framework for predicting LV geometries directly from CMR images, without the need to manually annotate any CMR scans. The key feature is  separating the segmentation and geometry reconstruction tasks by training two CNNs, a segmentation network and a geometry prediction network.
 
@@ -35,11 +34,11 @@ Code: <a class="github-button" href="https://github.com/aborowska/LVgeometry-pre
 
 ----
 
-### Conference papers - published at ICSTA 2019
-
 #### Massive Dimensionality Reduction for the Left Ventricular Mesh
 
-> How to reduce the dimension (17k!) of the LV mesh? With PCA, auto encoders or with a parametric model?
+Conference papers - published in Proceedings of the International Conference on Statistics: Theory and Applications 2019
+
+> How to reduce the dimension (17k) of the LV mesh? With PCA, auto encoders or with a parametric model?
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('dimred')">_Abstract_</a>
 <div id="dimred" style="display:none;">

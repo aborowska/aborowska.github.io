@@ -15,6 +15,8 @@ img: /assets/img/sv_hmm.jpg
    
 With Ruth King
 
+Published in Journal of Computational and Graphical Statistics, 2022
+
 > Improving the efficiency of data augmentation for state space models. Combining data augmentation with numerical integration in a Bayesian hybrid approach to reduce a high autocorrelation in the posterior draws, typically leading to poor mixing of the MCMC algorithm.	
 
 
