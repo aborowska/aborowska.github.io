@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ABC for cell movement
-description: Published in Computational Statistics
-img: /assets/img/ABC.jpg
+title: Semi-Complete Data Augmentation
+description: published in JCGS
+img: /assets/img/sv_hmm.jpg
 ---
 {% include _links_library.md %}
 
@@ -13,16 +13,24 @@ img: /assets/img/ABC.jpg
  }
 </script>
    
-With Jon Devlin, Dirk Husmeier and John Mackenzie
+With Ruth King
 
-Published in Computational Statistics, 2025
+Published in Journal of Computational and Graphical Statistics, 2022
 
-> A comparison and selection of ABC algorithms for a novel hybrid discrete-continuum model describing the movement of a population of cells in response to a self-generated chemotactic gradient.
+> Improving the efficiency of data augmentation for state space models. Combining data augmentation with numerical integration in a Bayesian hybrid approach to reduce a high autocorrelation in the posterior draws, typically leading to poor mixing of the MCMC algorithm.	
 
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Paper: <a class="page-link" href="{{ '/research/Devlin, Borowska, Husmeier, Mackenzie - Approximate Bayesian inference in a model for self-generated gradient collective cell movement.pdf' | prepend: site.baseurl | prepend: site.url }}">Approximate Bayesian inference in a model for self-generated gradient collective cell movement</a>
 
-<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('compstat')">_Abstract_</a>
-<div id="compstat" style="display:none;">
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> Paper: <a class="page-link" href="{{ '/research/Borowska, King - Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation for Efficient State Space Model Fitting</a>
+
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides: <a class="page-link" href="{{ '/research/A.Borowska - Semi-Complete Data Augmentation for Efficient State Space Model Fitting.pdf' | prepend: site.baseurl | prepend: site.url }}">Semi-Complete Data Augmentation for Efficient State Space Model Fitting</a>
+
+<i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('scda')">_Abstract_</a>
+<div id="scda" style="display:none;">
 <p>  <div style="font-size:0.85em; text-align: justify;">
-In this article we explore parameter inference in a novel hybrid discrete-continuum model describing the movement of a population of cells in response to a self-generated chemotactic gradient. The model employs a drift-diffusion stochastic process, rendering likelihood-based inference methods impractical. Consequently, we consider approximate Bayesian computation (ABC) methods, which have gained popularity for models with intractable or computationally expensive likelihoods. ABC involves simulating from the generative model, using parameters from generated observations that are “close enough” to the true data to approximate the posterior distribution. Given the plethora of existing ABC methods, selecting the most suitable one for a specific problem can be challenging. To address this, we employ a simple drift-diffusion stochastic differential equation (SDE) as a benchmark problem. This allows us to assess the accuracy of popular ABC algorithms under known configurations. We also evaluate the bias between ABC-posteriors and the exact posterior for the basic SDE model, where the posterior distribution is tractable. The top-performing ABC algorithms are subsequently applied to the proposed cell movement model to infer its key parameters. This study not only contributes to understanding cell movement but also sheds light on the comparative efficiency of different ABC algorithms in a well-defined context. </div> </p>
+We propose a novel efficient model-fitting algorithm for state space models. State space models are an intuitive and flexible class of models, frequently used due to the combination of their natural separation of the different mechanisms acting on the system of interest: the latent underlying system process; and the observation process. This flexibility, however, often comes at the price of more complicated model-fitting algorithms due to the associated analytically intractable likelihood. For the general case a Bayesian data augmentation approach is often employed, where the true unknown states are treated as auxiliary variables and imputed within the MCMC algorithm. However, standard "vanilla" MCMC algorithms may perform very poorly due to high correlation between the imputed states and/or parameters, often leading to model-specific bespoke algorithms being developed that are nontransferable to alternative models. The proposed method addresses the inefficiencies of traditional approaches by combining data augmentation with numerical integration in a Bayesian hybrid approach. This approach permits the use of standard "vanilla" updating algorithms that perform considerably better than the traditional approach in terms of improved mixing and lower autocorrelation, and has the potential to be incorporated into bespoke model-specific algorithms. To demonstrate the ideas, we apply our semi-complete data augmentation algorithm to different application areas and models, leading to distinct implementation schemes and improved mixing and demonstrating improved mixing of the model parameters. </div> </p>
 </div>
+
+
+
+
+Code: <a class="github-button" href="https://github.com/aborowska/DA_in_SSM" data-size="large" aria-label="Follow @aborowska/DA_in_SSM on GitHub">Follow @aborowska/DA_in_SSM</a>
